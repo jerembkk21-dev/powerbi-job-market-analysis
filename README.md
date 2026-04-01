@@ -53,10 +53,10 @@ d) 🏢 Company & Industry Analysis
 
 # 6) 📸 Dashboard Preview
 
-![Dashboard Overview](dashboard/dashboard1.png)
+![Dashboard Overview](screenshot/screenshot1.png)
 
-![Dashboard Overview](dashboard/dashboard2.png)
+![Dashboard Overview](screenshot/screenshot2.png)
 
-![Dashboard Overview](dashboard/dashboard3.png)
+![Dashboard Overview](screenshot/screenshot3.png)
 
-![Dashboard Overview](dashboard/dashboard4.png)
+![Dashboard Overview](screenshot/screenshot4.png)
