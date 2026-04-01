@@ -25,17 +25,21 @@ The dataset contains job postings with:
 (Source: DataCamp project dataset)
 
 # 4) Dashboard Features
+
 a)🏠 Home Page
 - Key KPIs (total jobs, average experience, etc.)
 - Navigation buttons
+- 
 b) 💼 Jobs Analysis
 - Job postings by role
 - Experience required by position level
-Trends in job demand
+- Trends in job demand
+
 c) 🧠 Skills Analysis
 - Most in-demand skills
 - Skill likelihood matrix
 - Skills vs job roles
+
 d) 🏢 Company & Industry Analysis
 - Job postings by company
 - Industry hiring trends
