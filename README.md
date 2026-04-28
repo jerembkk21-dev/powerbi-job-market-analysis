@@ -26,21 +26,21 @@ The dataset contains job postings with:
 
 # 4) Dashboard Features
 
-a)🏠 Home Page
+a) Home Page
 - Key KPIs (total jobs, average experience, etc.)
 - Navigation buttons
-- 
-b) 💼 Jobs Analysis
+
+b) Jobs Analysis
 - Job postings by role
 - Experience required by position level
 - Trends in job demand
 
-c) 🧠 Skills Analysis
+c)  Skills Analysis
 - Most in-demand skills
 - Skill likelihood matrix
 - Skills vs job roles
 
-d) 🏢 Company & Industry Analysis
+d) Company & Industry Analysis
 - Job postings by company
 - Industry hiring trends
 - Experience vs industry
@@ -51,7 +51,7 @@ d) 🏢 Company & Industry Analysis
 - Higher experience levels are linked to specific industries
 - Some companies have significantly higher posting activity
 
-# 6) 📸 Dashboard Preview
+# 6) Dashboard Preview
 
 ![Dashboard Overview](screenshot/screenshot1.png)
 
